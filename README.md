@@ -23,11 +23,14 @@
 	* Used to access the Spotify API and search for song information
 - **Request**
 	* Used to request the OMDB API
-  
+	
+  #### Twitter Example
   ![Node](liri1.png)
   
   
-  ![Node](liri1.png)
+  #### Spotify Example
+  ![Node](liri2.png)
   
   
-  ![Node](liri1.png)
+  #### OMDB Exmaple
+  ![Node](liri3.png)
